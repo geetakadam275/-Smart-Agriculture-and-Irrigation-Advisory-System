@@ -1,5 +1,5 @@
-@"
 node_modules
 .next
+out
 .env*
-"@ | Out-File -Encoding utf8 .gitignore
+.DS_Store
